@@ -1,2 +1,3 @@
-# cat-client
- client for the catspace gql certification project
+# Catstronauts - client
+
+The starting point of the `client` code for the gql certification project.
