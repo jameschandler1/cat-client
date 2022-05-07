@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "encoding": "utf-8",
   "name": "catstronauts-client-complete",
   "version": "1.0.0",
@@ -20,9 +19,10 @@
     "react-emotion": "^10.0.0",
     "react-markdown": "^6.0.2",
     "react-player": "^2.6.0",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
+    "dev": "npm i && nodemon src/index.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
